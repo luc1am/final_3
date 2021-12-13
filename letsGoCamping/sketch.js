@@ -144,7 +144,7 @@ class SnowFlake {
 
 function preload(){
   //https://freesound.org/people/lwdickens/sounds/529093/
-  ambient = loadSound("ambient.wav");
+  ambient = loadSound("ambient.mp3");
   //fireSound = loadSound("fire.wav");
   //https://freesound.org/people/ThatMisfit/sounds/413458/
   growl = loadSound('growl.wav');
